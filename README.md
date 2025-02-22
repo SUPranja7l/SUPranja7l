@@ -44,5 +44,3 @@ I am always eager to **collaborate, learn, and grow** within the ever-evolving f
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ghPranja7l&icon=0&color=12)](https://visitcount.itsvg.in)  
-
-🔹 *Proudly created with [GPRM](https://gprm.itsvg.in)*  
