@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hello 
+||Tech Enthusiast || Music Devotee 
 
+ Pranjal Panthi- an 9th-grade student pursuing my school days and I have indescribably great enthusiasm in technology. From a tech enthusiast point of view, I am largely dedicated to software development. 
 
+Keen to make a contribution to the IT sector, I look forward in honing my programming skills.I am always looking for opportunities to work together, understanding sustainably and grow within this field of technology.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pranja7l) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pranja7l) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lx_pranja7l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranja7l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devpranjalpanthi707@gmail.com) 
 
