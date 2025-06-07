@@ -27,20 +27,3 @@ I am always eager to **collaborate, learn, and grow** within the ever-evolving f
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)  
 
 ---
-
-# 📊 GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=ghPranja7l&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghPranja7l&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghPranja7l&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=ghPranja7l&theme=onedark&no-frame=true&no-bg=false&margin-w=4)  
-
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=ghPranja7l&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ghPranja7l&icon=0&color=12)](https://visitcount.itsvg.in)  
