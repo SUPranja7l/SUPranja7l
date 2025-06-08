@@ -1,7 +1,7 @@
 # 💫 About Me:  
 🚀 **Tech Enthusiast** | 🎵 **Music Devotee**  
 
-I'm **Pranjal Panthi**, a **9th-grade student** with an immense passion for **technology** and **software development**. My enthusiasm for coding and problem-solving drives me to **explore new technologies** and **contribute to the IT sector**.  
+I'm **Pranjal Panthi**, a **10th-grade student** with an immense passion for **technology** and **software development**. My enthusiasm for coding and problem-solving drives me to **explore new technologies** and **contribute to the IT sector**.  
 
 I am always eager to **collaborate, learn, and grow** within the ever-evolving field of **technology**. Let's build something amazing together! 🚀  
 
